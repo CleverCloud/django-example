@@ -19,7 +19,7 @@ For local work, you can grab [PostgreSQL](https://www.postgresql.org/download/) 
 
 First you need to [fork](https://help.github.com/articles/fork-a-repo/) the project or [duplicate it](https://help.github.com/articles/duplicating-a-repository/).
 
-Then, if you chose to run with MySQL instead of PostgreSQL, adapt the `DATABASES` configuration in `cc_django/settings.py`.
+Then, if you chose to run with MySQL instead of PostgreSQL, adapt the `DATABASES` configuration in `common/settings.py`.
 
 ## Clever Tools connect
 
