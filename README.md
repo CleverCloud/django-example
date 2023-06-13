@@ -4,7 +4,9 @@ This project allows you to quickly begin a Django project on Clever Cloud.
 
 ## Pre-requisites
 
-A working version of Python. This project has been tested on Python 3.6+.
+- A working version of Python. This project has been tested on Python 3.6+.
+- At least one Nano instance (Pico doesn't have enough resources for a Django project)
+- Postgresql version 12 if you're using django 4.2+ (postgresql 11 is deprecated since this version)
 
 ### Database
 
