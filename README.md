@@ -1,3 +1,6 @@
+> **DEPRECATED**: This example is no longer maintained and is kept only for reference purposes.
+> For an example of deploying Django on Clever Cloud, see https://github.com/CleverCloud/python-django-uv-example
+
 # Clever Coud Django project
 
 This project allows you to quickly begin a Django project on Clever Cloud.
